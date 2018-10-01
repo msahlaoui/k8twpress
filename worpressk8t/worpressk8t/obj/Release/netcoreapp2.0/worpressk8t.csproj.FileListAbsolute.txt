@@ -1,0 +1,11 @@
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\bin\Release\netcoreapp2.0\worpressk8t.deps.json
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\bin\Release\netcoreapp2.0\worpressk8t.runtimeconfig.json
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\bin\Release\netcoreapp2.0\worpressk8t.runtimeconfig.dev.json
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\bin\Release\netcoreapp2.0\worpressk8t.dll
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\bin\Release\netcoreapp2.0\worpressk8t.pdb
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\obj\Release\netcoreapp2.0\worpressk8t.csprojAssemblyReference.cache
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\obj\Release\netcoreapp2.0\worpressk8t.csproj.CoreCompileInputs.cache
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\obj\Release\netcoreapp2.0\worpressk8t.AssemblyInfoInputs.cache
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\obj\Release\netcoreapp2.0\worpressk8t.AssemblyInfo.cs
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\obj\Release\netcoreapp2.0\worpressk8t.dll
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\obj\Release\netcoreapp2.0\worpressk8t.pdb

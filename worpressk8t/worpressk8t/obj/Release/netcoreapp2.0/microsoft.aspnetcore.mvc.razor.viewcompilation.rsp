@@ -1,0 +1,12 @@
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=worpressk8t
+--content-root=C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t
+--file=C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\Pages\About.cshtml
+--file=C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\Pages\Contact.cshtml
+--file=C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\Pages\Error.cshtml
+--file=C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\Pages\Index.cshtml
+--file=C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\Pages\_Layout.cshtml
+--file=C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\Pages\_ValidationScriptsPartial.cshtml
+--file=C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\Pages\_ViewImports.cshtml
+--file=C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\Pages\_ViewStart.cshtml

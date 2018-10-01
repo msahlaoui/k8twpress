@@ -1,0 +1,3 @@
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\obj\Debug\netcoreapp2.0\worpressk8t.csproj.CoreCompileInputs.cache
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\obj\Debug\netcoreapp2.0\worpressk8t.AssemblyInfoInputs.cache
+C:\Users\mosahlao\Documents\GitHub\AzureRelay\k8twpress\worpressk8t\worpressk8t\obj\Debug\netcoreapp2.0\worpressk8t.AssemblyInfo.cs
